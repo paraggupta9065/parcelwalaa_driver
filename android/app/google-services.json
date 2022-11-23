@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "237544535660",
+    "project_id": "parcelwalaa-47f46",
+    "storage_bucket": "parcelwalaa-47f46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237544535660:android:58cd55fb0999524128ca49",
+        "android_client_info": {
+          "package_name": "com.parcelwalaa.parcelwalaa_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237544535660-dtc2vffavk8n9ceq9665r5k3ftmqs1vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC_oDm1wzuquWNvJbMKERbLiDk52Pwh-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237544535660-dtc2vffavk8n9ceq9665r5k3ftmqs1vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237544535660:android:4f4aff8abc1a542928ca49",
+        "android_client_info": {
+          "package_name": "com.parcelwalaa.parcelwalaa_vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237544535660-qnamhsqi023qeh7s3cpgakahtjaar6kj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.parcelwalaa.parcelwalaa_vendor",
+            "certificate_hash": "8a16a2a586e4d9414ca413536974669b33795ffb"
+          }
+        },
+        {
+          "client_id": "237544535660-dtc2vffavk8n9ceq9665r5k3ftmqs1vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC_oDm1wzuquWNvJbMKERbLiDk52Pwh-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237544535660-dtc2vffavk8n9ceq9665r5k3ftmqs1vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237544535660:android:abbccf9ca06cba2d28ca49",
+        "android_client_info": {
+          "package_name": "com.vaininnovation.parcelwalaa_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237544535660-dtc2vffavk8n9ceq9665r5k3ftmqs1vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC_oDm1wzuquWNvJbMKERbLiDk52Pwh-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237544535660-dtc2vffavk8n9ceq9665r5k3ftmqs1vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
